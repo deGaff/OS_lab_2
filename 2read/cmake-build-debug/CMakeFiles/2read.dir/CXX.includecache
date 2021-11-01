@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Stud/5 sem/os/2read/projRead.cpp
+projRead.h
+E:/Stud/5 sem/os/2read/projRead.h
+
+E:/Stud/5 sem/os/2read/projRead.h
+windows.h
+-
+iostream
+-
+string
+-
+safe_input.h
+E:/Stud/5 sem/os/2read/safe_input.h
+
+E:/Stud/5 sem/os/2read/safe_input.h
+iostream
+-
+limits
+-
+
