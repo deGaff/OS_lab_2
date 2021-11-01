@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Stud/5 sem/os/2write/projWrite.cpp
+projWrite.h
+E:/Stud/5 sem/os/2write/projWrite.h
+
+E:/Stud/5 sem/os/2write/projWrite.h
+iostream
+-
+string
+-
+map
+-
+windows.h
+-
+safe_input.h
+E:/Stud/5 sem/os/2write/safe_input.h
+
+E:/Stud/5 sem/os/2write/safe_input.h
+iostream
+-
+limits
+-
+
